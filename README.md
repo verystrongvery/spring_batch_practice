@@ -1,3 +1,9 @@
+# 프로젝트를 통해 배운것
+1. Spring Batch를 활용하여 chunked 기반의 배치 프로세스 작성
+2. Docker 환경에서 MariaDB 환경 구축
+3. WebClient를 활용하여 KOBIS OPEN API 호출
+4. Spring Scheduler 사용법
+
 # 프로젝트 프로세스
 ### 1. Spring Boot 프로젝트 생성
 ### 2. Maria DB 환경 구축
