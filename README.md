@@ -4,7 +4,13 @@
 3. WebClient를 활용하여 KOBIS OPEN API 호출
 4. Spring Scheduler 사용법
 
-# 프로젝트 프로세스
+# 기술스택
+- Spring Boot 2
+- Spring Batch 4
+- Spring Data JPA
+- MariaDB
+
+# 프로젝트 구현내용
 ### 1. Spring Boot 프로젝트 생성
 ### 2. Maria DB 환경 구축
    - MariaDB Docker Image Pull
