@@ -8,7 +8,8 @@
 - Spring Boot 2
 - Spring Batch 4
 - Spring Data JPA
-- MariaDB
+- Docker 24
+- MariaDB 11
 
 # 프로젝트 구현내용
 ### 1. Spring Boot 프로젝트 생성
