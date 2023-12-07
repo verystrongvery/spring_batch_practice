@@ -1,8 +1,8 @@
 # 프로젝트 요약
-1. Spring Batch를 활용하여 chunked 기반의 배치 프로세스 작성
-2. Docker 환경에서 MariaDB 환경 구축
-3. WebClient를 활용하여 KOBIS OPEN API 호출
-4. Spring Scheduler 사용법
+1. 매일매일 영화 순위 정보를 DB에 저장하는 배치 프로세스 작성(Spring Batch 활용)
+2. MariaDB 환경 구축(Docker 활용)
+3. KOBIS OPEN API 호출(WebClient 활용)
+4. Batch Job 호출(Spring Scheduler 활용)
 
 # 기술스택
 - Spring Boot 2
