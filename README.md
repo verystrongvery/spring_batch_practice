@@ -79,5 +79,5 @@
 
 # ◀️ **저장되는 데이터 예시**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c7f7014-45bc-48b9-9bf5-5688770b70f3/02ae1986-b615-48b7-9ae6-771b99096719/Untitled.png)
+![](https://velog.velcdn.com/images/topmedia/post/9b3a0b09-5178-437e-b926-2f7ab1acb940/image.png)
 
